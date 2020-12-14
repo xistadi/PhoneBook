@@ -6,5 +6,5 @@
 ### About
 Phone book(CRUD). DB - sqlite(SQLAlchemy)
 
-**V1** - CRUD phone book
-**V2** - used Jinja
+- **V1** - CRUD phone book
+- **V2** - used Jinja
